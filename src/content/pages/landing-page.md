@@ -28,4 +28,6 @@ content_blocks:
     button:
       text: Try This Free
       link: /signup
+  - _bookshop_name: privacy/hero
+    title: Terms & ConditionTest
 ---
