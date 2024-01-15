@@ -1,4 +1,5 @@
 ---
+_schema: default
 title: Pricing
 seo:
   page_description:
@@ -10,112 +11,63 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: pricing/hero
-    title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
-
+    title: Choose Your Package
+    description: Get up to 40% more credits when you purchase directly on SpoofCard.com.
   - _bookshop_name: pricing/table
     pricing_tier:
-      - tier: Free
+      - tier: 60 Credits
         highlight_tier: false
-        description: Everything you need to get started.
+        description: 45 Credits
         currency_symbol: $
-        price: 0
+        price: 9.95
         has_discount: false
         discount_price: 0
-        features:
-          - item: 1 Email Campaign
-            active_feature: true
-          - item: 1 Year Premium Support
-            active_feature: true
-          - item: Regular Update for 1 Year
-            active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: false
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
+        features: []
         button:
-          link: /signup
-          text: Try This Free
-      - tier: Pro
-        highlight_tier: true
-        description: More collaborative power and unlimited boards for fast-growing.
-        currency_symbol: $
-        price: 199
-        has_discount: true
-        discount_price: 125
-        features:
-          - item: 1 Email Campaign
-            active_feature: true
-          - item: 1 Year Premium Support
-            active_feature: true
-          - item: Regular Update for 1 Year
-            active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
-        button:
-          link: /signup
-          text: Try This Free
-      - tier: Business
+          link: /login
+          text: Select
+      - tier: 130 Credits
         highlight_tier: false
-        description: For starters Includes unlimited members
+        description: 100 Credits
         currency_symbol: $
-        price: 499
-        has_discount: true
-        discount_price: 350
-        features:
-          - item: 1 Email Campaign
-            active_feature: true
-          - item: 1 Year Premium Support
-            active_feature: true
-          - item: Regular Update for 1 Year
-            active_feature: true
-          - item: 90+ Widgets & Extensions
-            active_feature: true
-          - item: 23+ Templates
-            active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: true
-          - item: 3 filters
-            active_feature: true
-          - item: Unlimited activity history
-            active_feature: true
+        price: 19.95
+        has_discount: false
+        discount_price: 0
+        features: []
         button:
-          link: /signup
-          text: Try This Free
-
-  - _bookshop_name: global/faq
-    title: Have
-    title_suffix: Questions?
-    description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
-    FAQ:
-      - title: Is there a maximum numbers of emails I can send each month?
-        description: No, the prices include unlimited emails. Send to your heart's content.
-      - title: Where can I find out more information?
-        description: Right here on this website, or contact our support team.
-      - title: Do you have pricing for non-profits?
-        description: Yes, contact our support team and we'll get you set up on our non-profit plan.
-      - title: What forms of payment do you accept?
-        description: We accept credit cards, checks, and cash.
-      - title: In which currencies can I make payments?
-        description: All payments are in **USD**.
+          link: /login
+          text: Select
+      - tier: 220 Credits
+        highlight_tier: true
+        description: 160 Credits
+        currency_symbol: $
+        price: 29.95
+        has_discount: false
+        discount_price: 0
+        features: []
+        button:
+          link: /login
+          text: Select
+      - tier: 400 Credits
+        highlight_tier: false
+        description: 280 Credits
+        currency_symbol: $
+        price: 57.95
+        has_discount: false
+        discount_price: 0
+        features: []
+        button:
+          link: /login
+          text: Select
+      - tier: 850 Credits
+        highlight_tier: false
+        description: 600 Credits
+        currency_symbol: $
+        price: 99.95
+        has_discount: false
+        discount_price: 0
+        features: []
+        button:
+          link: /login
+          text: Select
 ---
