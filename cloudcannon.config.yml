@@ -6,10 +6,16 @@ collections_config:
   data:
     path: data
     output: false
+    description: ''
     icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
     disable_add: true
     disable_add_folder: true
     disable_file_actions: false
+    schemas: {}
   posts:
     path: src/content/blog
     output: true
