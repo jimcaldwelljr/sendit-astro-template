@@ -11,110 +11,102 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: Protect Your Privacy
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      SpoofCard gives you the ability to call and text from a virtual number to
+      protect your personal information and privacy. Use as many numbers as you
+      need. It's easy to use and works on any phone. Try it for FREE when you
+      sign up on our mobile apps.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
+      text: Get Started for Free
       link: /signup/
-  - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
-    description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
-    alternate_style: false
-    numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - prefix:
-        number: 2016
-        suffix:
-        text: Established in
-      - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
-      - prefix:
-        number: 4322
-        suffix: +
-        text: Active users and growing
-  - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
-    image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
-  - _bookshop_name: global/header
-    title: "Sendit "
-    title_suffix: Features
-    remove_top_padding: true
-    description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: Email Campaign in one minute
+    title: PROTECT YOUR PRIVACY ON EVERY CALL
     description: >-
-      Send an email campaign with one click, in just minutes. Automate your
-      emails and content, while keeping the human touch.
+      SpoofCard makes it easy to use a second phone number while ensuring your
+      personal information is private and secure. Instantly get a virtual phone
+      number to call and text from or add additional numbers you own (like an
+      office line!) so you can call from that number using your personal device,
+      regardless of where you are.
     button:
       link: /signup
-      text: Try This Free
+      text: Get Started
     reversed: false
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
-    image_alt: Visitor chart
-    title: See every Lead in one Place
+    image: /images/feature/feature-card-one.png
+    image_alt: Message inbox
+    title: RECORD YOUR CALLS
     description: >-
-      Sales analytics and automation made simple: see every sales lead in one
-      place, regardless of where it came from.
+      Sometimes recording your phone calls is necessary to keep people honest
+      and accountable, or to get the protection you need. SpoofCard allows you
+      to easily record your phone calls and instantly download them once the
+      call is complete.
     button:
       link: /signup
       text: Try This Free
     reversed: true
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
-    image_alt: File upload
-    title: 100% free uploads
+    image: /images/feature/feature-card-one.png
+    image_alt: Message inbox
+    title: CALL STRAIGHT TO VOICEMAIL
     description: >-
-      Sendit is used by everyone from small businesses to fortune 500 companies.
-      Browse our collection of email marketing templates and start sending
-      beautiful emails in minutes.
+      Calls placed through your virtual phone number on SpoofCard can instantly
+      be sent to a person's voicemail. This allows you to control your day and
+      save time when you need to avoid conversation. Their phone will show a
+      missed call, and you can easily leave a voicemail.
     button:
       link: /signup
       text: Try This Free
     reversed: false
-  - _bookshop_name: global/testimonial
-    title: Build relationships that
-    title_suffix: last
+  - _bookshop_name: feature/hero
+    title: CONTROL YOUR VOICE
     description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
-    slider:
-      - image: /images/testimonial/logo-2.jpg
-        image_alt: Profile photo of Pete Fish
-        author: Pete Fish
-        designation: CMO at Clear Appeal
-        message: >-
-          Sendit has taken Clear Appeal to the next level with it's beautiful
-          targetted email campaigns.
-      - image: /images/testimonial/logo-3.jpg
-        image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
-        message: >-
-          Wow, what a difference Sendit has made. My customers are more engaged
-          than ever.
-      - image: /images/testimonial/logo-4.jpg
-        image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
-        message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
+      SpoofCard is the world's first real-time voice changer. Before placing a
+      phone call, SpoofCard gives you the option to tailor the call by changing
+      your voice to sound like a man or a woman and by adding background sounds.
+    button:
+      link: /sign-up
+      text: Try This Free
+    image: /images/feature/feature-hero.png
+    image_alt: Graphs
+  - _bookshop_name: global/feature
+    image: /images/feature/feature-card-one.png
+    image_alt: Message inbox
+    title: SEND TEXTS ANYTIME, ANYWHERE
+    description: >-
+      In addition to calling, you can also send text messages through a second
+      phone number of your choosing. Simply select from our list of virtual
+      numbers and get the conversation started! Our texting feature is easy to
+      use, accessible from anywhere, and 100% secure. All responses are FREE and
+      once you're done with the conversation, simply delete the message and you
+      won't receive any more replies!
+    button:
+      link: /signup
+      text: Try This Free
+    reversed: false
+  - _bookshop_name: about/hero
+    title: 6 MILLION USERS TRUST US
+    description: >-
+      Our customers love SpoofCard for giving them the ability to control their
+      Caller ID and maintain privacy on all of their calls and texts.
+    hero_images: []
+    button:
+      text: Sign Up for SpoofCard
+      link: '#counter-up'
+  - _bookshop_name: about/hero
+    title: Download SpoofCard Today
+    description: >-
+      The best way to use your SpoofCard account from your phone is with our
+      mobile apps.
+    hero_images:
+      - image: /images/about/aboutfeature-three.jpg
+        image_alt: People working
+        placement: front_bottom
+    button:
+      text: See more
+      link: '#counter-up'
 ---
