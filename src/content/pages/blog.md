@@ -1,10 +1,15 @@
 ---
 _schema: paginated_collection
-title: Resources for makers to learn, sell & grow
-description: "We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy."
+title: TRUSTED BY OVER 6 MILLION USERS
+description: >+
+  Our customers love SpoofCard for protecting their privacy on all of their
+  calls and texts.
+
 page_size: 3
 seo:
-  page_description: "We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy."
+  page_description: >-
+    Our customers love SpoofCard for protecting their privacy on all of their
+    calls and texts.
   canonical_url:
   featured_image:
   featured_image_alt:
